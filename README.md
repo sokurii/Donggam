@@ -1,7 +1,6 @@
 # 동감(Ditto) ✨
 
-
-![image](https://github.com/sokurii/Donggam/assets/122415844/fb9cd072-19dd-4250-a6b7-445974073a83)
+![image](https://github.com/sokurii/Donggam/assets/122415844/d95f8160-f566-4e07-b0ac-eff60ff3c661)
 
 ## 🎀 프로젝트 소개
 
